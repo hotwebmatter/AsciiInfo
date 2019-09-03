@@ -1,6 +1,9 @@
 # AsciiInfo
 Seventh programming exercise for C# class.
 
+Code is based on the AsciiBanner exercise, with the
+addition of some backslash escape character sequences.
+
 ## Example output
 ```
 
