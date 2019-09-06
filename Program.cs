@@ -1,4 +1,13 @@
-﻿using System;
+/**
+ * ######################################################
+ * ##    Programming Assignment #7                     ##
+ * ##    Developer: Matthew Obert                      ##
+ * ##    Date Submitted: September 06 2019             ##
+ * ##    Purpose: Demo \\ escape sequence.             ##
+ * ######################################################
+ */
+
+using System;
 using static System.Console;
 
 namespace AsciiInfo
